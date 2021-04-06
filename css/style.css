@@ -842,8 +842,9 @@ footer .copyright
     }
 
     .card{
-
-      margin-left: 20px;
+      margin-right: auto;
+      margin-left: auto;
+      /* margin-left: 30px; */
     }
 
   }
