@@ -10,7 +10,24 @@ body {
       font-size: large;
     }
 
+@media screen and (max-width: 768px){
 
+    #cardimg{
+      width:100%;
+    }
+    .row-cols-md-3{
+      width: 100%;
+      float: left;
+      margin: 0;
+    }
+
+    .card{
+      margin-right: auto;
+      margin-left: auto;
+      /* margin-left: 30px; */
+    }
+
+  }
 
     #speaktous {
       margin-top: 25px;
